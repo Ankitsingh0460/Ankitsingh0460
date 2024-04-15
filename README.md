@@ -1,4 +1,4 @@
-![logo](![Ankit Singh](https://github.com/Ankitsingh0460/Ankitsingh0460/assets/101083216/b9ceae41-bace-40df-b019-1f0a4425f131)
+![Ankit Singh](https://github.com/Ankitsingh0460/Ankitsingh0460/assets/101083216/b9ceae41-bace-40df-b019-1f0a4425f131)
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
