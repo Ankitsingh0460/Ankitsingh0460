@@ -1,4 +1,5 @@
-![logo](https://marketingweek.imgix.net/content/uploads/2015/03/Digital_tech_breaker.png?auto=compress,format&q=60&w=980&h=400)
+![logo](![Ankit Singh](https://github.com/Ankitsingh0460/Ankitsingh0460/assets/101083216/b9ceae41-bace-40df-b019-1f0a4425f131)
+
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif" >
