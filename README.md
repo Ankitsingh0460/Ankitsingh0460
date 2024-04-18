@@ -4,6 +4,8 @@
 <h3 align="center">A passionate Software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/0*MLqvFzwwZFAuOgup.gif" >
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitsingh0460&label=Profile%20views&color=0e75b6&style=flat" alt="ankitsingh0460" /> </p>
+
 <p align="left"> <a href="https://twitter.com/singhankit0460" target="blank"><img src="https://img.shields.io/twitter/follow/singhankit0460?logo=twitter&style=for-the-badge" alt="singhankit0460" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
@@ -19,3 +21,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ankitsingh0460&show_icons=true&locale=en&layout=compact" alt="ankitsingh0460" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ankitsingh0460&show_icons=true&locale=en" alt="ankitsingh0460" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitsingh0460&" alt="ankitsingh0460" /></p>
