@@ -1,5 +1,4 @@
-![Ankit Singh](https://github.com/Ankitsingh0460/Ankitsingh0460/assets/101083216/87839b0b-adda-47d9-af46-36470129c149)
-
+![Ankit Singh](https://github.com/Ankitsingh0460/Ankitsingh0460/assets/101083216/527feedd-e18f-4fb2-a245-cb52f6da4dda)
 
 <h1 align="center">Hi 👋, I'm Ankit Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
