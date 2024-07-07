@@ -2,7 +2,7 @@
 🌱 I’m currently learning MERN and Next.js<br>💬 Ask me about MERN , Node.js<br>👨‍💻 All of my projects are available at https://portfolio-beryl-theta-34.vercel.app/<br>📄 Know about my experiences https://www.linkedin.com/in/ankitsingh0460/<br>📫 How to reach me  singhankit0460@gmail.com
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ankitsingh0460) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/singhankit0460) 
 
 # 💻 Tech Stack:
