@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on MERN<br>🌱 I’m currently learning MERN and NextJS<br>👨‍💻 All of my projects are available at https://portfolio-beryl-theta-34.vercel.app/<br>💬 Ask me about MERN,NODE<br>📫 How to reach me singhankit0460@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/ankitsingh0460/
+🔭 I’m currently working on MERN<br>🌱 I’m currently learning MERN and NextJS<br>👨‍💻 All of my projects are available at https://portfolio-beryl-theta-34.vercel.app/<br>💬 Ask me about MERN,NextJS<br>📫 How to reach me singhankit0460@gmail.com<br>📄 Know about my experiences https://www.linkedin.com/in/ankitsingh0460/
 
 
 ## 🌐 Socials:
