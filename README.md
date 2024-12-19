@@ -16,6 +16,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=ankitsingh0460&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ankitsingh0460&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=singhankit0460&label=Profile%20Views&color=11&icon=4&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
